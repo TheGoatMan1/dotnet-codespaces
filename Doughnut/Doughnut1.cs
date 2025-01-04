@@ -2,7 +2,7 @@
 using System.Text;
 using System.Threading;
 using System.Collections;
-namespace Doughnut
+namespace Doughnut1
 {
     internal class Program
     {
