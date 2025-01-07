@@ -55,7 +55,7 @@ namespace Doughnut1
                         }
                     }
                 }
-                output.Append("\u001b[38;2;225;200;0m");//Color
+                output.Append("\u001b[38;2;255;235;50m");//Color
                 for (int i = 0; i < Terminal.Length; i++)
                 {
                     if (i % screenWidth == 0) output.Append("\n");
